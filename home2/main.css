@@ -1,0 +1,18 @@
+.image{
+    margin-top: 1.5%;
+    margin-right: 50%;
+    margin-left: 50%;
+}
+
+.infop{
+ height: 30px;
+    width: 200px;
+    margin-top: 0.2%;
+}
+
+body {
+  font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+  font-size: 11pt; /* Размер основного шрифта в пунктах  */
+  background-color: #a73b3b; /* Цвет фона веб-страницы */
+  color: #333; /* Цвет основного текста */ 
+}
